@@ -33,8 +33,8 @@ Step 11: Predict for a New Student
 ```python
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: LOGA SRI M
-RegisterNumber:  212225230153
+Developed by: MOHAMMED YEZDAAN NAQI N
+RegisterNumber:  212225230181
 */
 
 
